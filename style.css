@@ -45,7 +45,7 @@
 .cc-menu {
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/image17.jpeg') center center fixed no-repeat;
 	background-size: cover;
-	height: 1200px;
+	height: 1500px;
 }
 
 .btn-order {
@@ -59,4 +59,7 @@
 .btn-order:active {
 	color: #fff;
 	background-color: var(--bs-teal);
+}
+.text-white{
+   
 }
